@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "citric-plexus-255822",
+  "private_key_id": "a6dd63de39a1605233e6dc6c0657937f76b775ba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC86fGoQnjFXcAJ\nvtPGTxCRGsAQmMDao0WaPPBAs6qDuJ77W1Utw52Go5zZz+JUn0WUlc8lcnLmth6s\n3xedqsNkda8pN7wd33gqy0YJxSDrjSuKfULJkdCH5Ai42qVEp+1DrO5dD7r2C1uE\nSo4XN9lI9MFhmjwX2jcSFGxmc5dUnGFBRaEn6vTyQCShNb2u/+rQbwdMi2C5aXq4\nRUrOltus6wVEKs2uBEW83Utz89lxEDBxvijv73EcseKrH99WOoA0H6jLoP5Utn1v\nlPWJsJ19WuaKnTM5YVKclhy4Mi01Gpv0V18b1O050LyUOVoe+5VeS5mUz4nNrlPn\nOpZoMPjjAgMBAAECggEARRK6571KQEvrjASolTFSiuO/hzH7DdY1/FO8usOWnKv0\nAU7fQajtH44SKzfN9wf3XoE6KOSEa6P6alX14hHOeJxpC8aTs06Ctw71EFxyEX5g\nBbaQJXh5yT4RDFnxpL1LzPtdekxmnVEAyMmj04x5l6naTVAiGcyRZzxteDZahjY4\npO/a22/oOCbxGDUI0obK5Z3Zjnop5E3Xhp1uAps84foWWjxTvKYJaRTXwQz4PZPR\nv8qpsYwYqQOzMyOvGfYJQyLbMMQm9W50rVSGgIHhh2rY3J5L2JkC/Nr7pjUDf24o\nVsKChaibbT4e9B2PgTUBECKde9sHZ8n961/D0TgSwQKBgQDgiH2RbWca8DcJJ4CE\nA0/hkMcJyjHKkVXekWlpV//GIuYcuqFNO8rb1TBeS56miaNzWc3CrYUqFj8fFKLr\n6K/P7AAyTM7Pfj03X4jK/iFoYJHFxrpELvSS9lLnzmYbbikBOTfOOR/MtLQ3syzZ\n26ps99vPs7wmKBh85CrpNTzTwQKBgQDXY4y2VRsUBfcf5ZDTpjYQpdnAYt0duo27\nt1tu7+840vBSxkPG72zLb/yzZ4nb/o8WZl3VqG1tQ9zy8C51KkGo/Q4VONt9uQq/\ncadkUKhvku3NDP2yKai8GqBA3E7DGv+wA1mKok6OIKOlOysMfsZxM03g2qTrpzyr\nQ9k3UatlowKBgQCHV77Y+mk8A7ApBHajHJv6C5rue8KnqBNqpZw0s6apeD/c8WJp\ne7E78bXGIS7wk+bCkU9GGfI6/E3wHjBWo1vWqRs1Nrcyu5WK2ztJoQXiNNOps7Bz\niRpDu9cdg3xo7G4rHqJU3Hoemo5HROm0KIUCSiVlfaHcHi8kmSSEjmKsAQKBgFPN\nlOMga9+3jnZnoJjo06JYlUeob7XwbtL5vWaFjkNCt2TNZXOSlnb1BJJdF6N0AQJL\nI/lMhf78Z4xSbREDNvbkNsWFEMly5L6mHuYGB/MZbNLaWh8m3FML3Qw/a5m3+IHo\nW7939S6Rfnp8cfxzmwxSVNvG1mIl+JH+XRaL/S8XAoGBAJGzsYzvjmoyEeIFiv/X\nwPdOwu3iqrz2hiLmE6QWmpiUYgi3mEeLA3hTqjekAexZsWydxjccWLqgroW7iBrq\nHJeSJT14nyzuXGcGXW72IB8AuRIa1Ha7QfNfkszqnC0ZTcDwmfu4NS0nCX+Qljuf\nWq9ftHnBzZZ5MU6Utl9jqfye\n-----END PRIVATE KEY-----\n",
+  "client_email": "pmockvideoupload@citric-plexus-255822.iam.gserviceaccount.com",
+  "client_id": "113290151271733578320",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pmockvideoupload%40citric-plexus-255822.iam.gserviceaccount.com"
+}
